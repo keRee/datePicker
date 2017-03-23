@@ -1,8 +1,10 @@
 # datePicker
 
-> A Vue.js project
+> 基于vue的日期组件
 
-## Build Setup
+
+## 操作指引
+
 
 ``` bash
 # install dependencies
@@ -18,4 +20,4 @@ npm run build
 npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
