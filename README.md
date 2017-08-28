@@ -1,6 +1,6 @@
 # datePicker
 
-> 基于vue的日期组件
+> vuejs的日期组件
 
 
 ## 操作指引
